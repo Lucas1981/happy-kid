@@ -1,5 +1,7 @@
 # Happy Kid
 
+![Happy Kid screenshot]([URL](https://github.com/Lucas1981/happy-kid/blob/main/Screenshot%202023-12-18%20at%2022.59.41.png) "Optional title")
+
 So, this was an exercise to see how fast and easy it would be to write a game in C using ChatGPT. I used ChatGPT for the
 generation of most of the code, and for the generation of the graphical assets.
 
